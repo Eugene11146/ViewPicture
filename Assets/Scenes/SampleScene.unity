@@ -335,7 +335,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.0025024414, y: 0}
+  m_AnchoredPosition: {x: 0.0025634766, y: 0}
   m_SizeDelta: {x: -0.0050049, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &18181208
@@ -764,7 +764,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.000061035156, y: 0}
+  m_AnchoredPosition: {x: -0.00012207031, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &57168736
@@ -1793,8 +1793,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8396c6eda4755204282baf184bb71a0d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spNull: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  picPanel: {fileID: 18181206}
+  beginSpriteBigView: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  _picturePanelBigView: {fileID: 18181206}
 --- !u!224 &350570278 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6324273924656262566, guid: 9bf8baa85cd2f144796db29b53297938, type: 3}
